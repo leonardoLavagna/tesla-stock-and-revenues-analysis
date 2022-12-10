@@ -7,7 +7,7 @@ We will study Tesla stock price and revenues using web scraping, the library `yf
 Here you can find:
 - The notebook `Tesla_stock_price_analysis.ipynb` with the web scraping part, the interactive plots, the Exploratory Data Analysis and the Machine Learning models,
 - The notebook `Tesla_stock_price_prediction.ipynb` with a Recursive Neural Network to carry out the prediction task.
-- A csv file with some data `TESLA.csv`.
+- A csv file with some data `TSLA.csv`.
 
 ## Dataset
 We got our data using the library `yfinance` and web-scraping. For simplicity we've also uploaded the data in csv format.
